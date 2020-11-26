@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8ÓŸ…ÂÙ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŽÄØ†8†š‰ÂÙ.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ù´óù8ª¶„ÂÙ.
+Q	java:S125!"<This block of commented-out lines of code should be removed.(Ù´óù
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(Á¦”ÿÿÿÿÿ
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(Ëé›òüÿÿÿÿ8òˆÂÙ.
+y
+java:S1488$"^Immediately return this expression instead of assigning it to the temporary variable "answer".(¸Ü†—ûÿÿÿÿ
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(ŽÄØ†8ºÜŒÂÙ.
