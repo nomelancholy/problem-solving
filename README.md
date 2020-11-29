@@ -2,7 +2,7 @@
 
 ## baekjoon
 
-- 2557 : Hello World
+- [2557 : Hello World](./baekjoon/baekjoon/2557-helloworld.cpp)
 
 ## algospot
 
