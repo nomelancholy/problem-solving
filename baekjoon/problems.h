@@ -3,8 +3,6 @@
 
 using namespace std;
 
-void helloWorld2557(){
-    cout << "Hello World!";
-};
+void helloWorld2557();
 
 #endif // PROBLEMS_H_INCLUDED
