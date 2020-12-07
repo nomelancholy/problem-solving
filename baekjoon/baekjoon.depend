@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607344767 source:c:\dev\workspace\problem-solving\baekjoon\main.cpp
+	<iostream>
+	"solutions.h"
+
+1607344775 c:\dev\workspace\problem-solving\baekjoon\solutions.h
+
