@@ -2,9 +2,9 @@
 
 ## baekjoon
 
-- [2557 : Hello World](./baekjoon/baekjoon/2557-helloworld.cpp)
+- 2557번. Hello World - [문제](https://www.acmicpc.net/problem/2557) / [풀이](./baekjoon/hello-world-2557.cpp)
 
-- [10718 : We Love Kriii](./baekjoon/baekjoon/10718-we-love-kriii-10718.cpp)
+- 10718번. We Love Kriii - [문제](https://www.acmicpc.net/problem/10718) / [풀이](./baekjoon/we-love-kriii-10718.cpp)
 
 ## algospot
 
