@@ -4,6 +4,6 @@
 using namespace std;
 
 int main(){
-    we_love_kriii_10718();
+    cat_10171();
     return 0;
 }

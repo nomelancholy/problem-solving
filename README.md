@@ -6,6 +6,8 @@
 
 - 10718번. We Love Kriii - [문제](https://www.acmicpc.net/problem/10718) / [풀이](./baekjoon/we-love-kriii-10718.cpp)
 
+- 10171번. 고양이 - [문제](https://www.acmicpc.net/problem/10171) / [풀이](./baekjoon/cat-10171.cpp)
+
 ## algospot
 
 ## codeforces

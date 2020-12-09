@@ -1,11 +1,15 @@
 # depslib dependency file v1.0
-1607437972 source:c:\dev\workspace\problem-solving\baekjoon\main.cpp
+1607511620 source:c:\dev\workspace\problem-solving\baekjoon\main.cpp
 	<iostream>
 	"solutions.h"
 
-1607437963 c:\dev\workspace\problem-solving\baekjoon\solutions.h
+1607511640 c:\dev\workspace\problem-solving\baekjoon\solutions.h
 
 1607344811 source:c:\dev\workspace\problem-solving\baekjoon\hello-world-2557.cpp
+	<iostream>
+	"solutions.h"
+
+1607437985 source:c:\dev\workspace\problem-solving\baekjoon\we-love-kriii-10718.cpp
 	<iostream>
 	"solutions.h"
 

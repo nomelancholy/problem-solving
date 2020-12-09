@@ -32,7 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="hello-world-2557.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="solutions.h" />
+		<Unit filename="we-love-kriii-10718.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
