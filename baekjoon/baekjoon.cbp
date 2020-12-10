@@ -33,6 +33,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="cat-10171.cpp" />
+		<Unit filename="dog-10172.cpp" />
 		<Unit filename="hello-world-2557.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="solutions.h" />

@@ -4,6 +4,6 @@
 using namespace std;
 
 int main(){
-    cat_10171();
+    dog_10172();
     return 0;
 }
