@@ -4,6 +4,6 @@
 using namespace std;
 
 int main(){
-    dog_10172();
+    a_plus_b_1000();
     return 0;
 }

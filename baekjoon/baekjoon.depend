@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1607511620 source:c:\dev\workspace\problem-solving\baekjoon\main.cpp
+1607811520 source:c:\dev\workspace\problem-solving\baekjoon\main.cpp
 	<iostream>
 	"solutions.h"
 
-1607598151 c:\dev\workspace\problem-solving\baekjoon\solutions.h
+1607811497 c:\dev\workspace\problem-solving\baekjoon\solutions.h
 
 1607344811 source:c:\dev\workspace\problem-solving\baekjoon\hello-world-2557.cpp
 	<iostream>
@@ -13,7 +13,15 @@
 	<iostream>
 	"solutions.h"
 
-1607511713 source:c:\dev\workspace\problem-solving\baekjoon\cat-10171.cpp
+1607708320 source:c:\dev\workspace\problem-solving\baekjoon\cat-10171.cpp
+	<iostream>
+	"solutions.h"
+
+1607598719 source:c:\dev\workspace\problem-solving\baekjoon\dog-10172.cpp
+	<iostream>
+	"solutions.h"
+
+1607811657 source:c:\dev\workspace\problem-solving\baekjoon\a+b-1000.cpp
 	<iostream>
 	"solutions.h"
 
