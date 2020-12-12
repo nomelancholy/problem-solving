@@ -4,6 +4,6 @@
 using namespace std;
 
 int main(){
-    a_minus_b_1001();
+    a_mutiply_b_10998();
     return 0;
 }

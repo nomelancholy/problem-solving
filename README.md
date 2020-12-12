@@ -8,7 +8,7 @@
 - 10172번. 개 - [문제](https://www.acmicpc.net/problem/10172) / [풀이](./baekjoon/dog-10172.cpp)
 - 1000번. A+B - [문제](https://www.acmicpc.net/problem/1000) / [풀이](./baekjoon/A+B-1000.cpp)
 - 1001번. A-B - [문제](https://www.acmicpc.net/problem/1001) / [풀이](./baekjoon/A-B-1001.cpp)
-- 10098번. AxB - [문제](https://www.acmicpc.net/problem/10998)
+- 10098번. AxB - [문제](https://www.acmicpc.net/problem/10998) / [풀이](./baekjoon/AxB-10998.cpp)
 - 1008번. A/B - [문제](https://www.acmicpc.net/problem/1008)
 
 ## algospot
