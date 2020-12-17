@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608197511 source:c:\dev\workspace\problem-solving\programmers\main.cpp
+	<iostream>
+	"solutions.h"
+
+1608197407 c:\dev\workspace\problem-solving\programmers\solutions.h
+
+1608197654 source:c:\dev\workspace\problem-solving\programmers\even-number-and-odd-number.cpp
+	<iostream>
+	"solutions.h"
+
