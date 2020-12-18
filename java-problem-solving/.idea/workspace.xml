@@ -1,180 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29759f4-63b5-4216-a7cc-41831ff3c6ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/alignment/KthNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/alignment/KthNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/array/AlphabetCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/array/AlphabetCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/array/AlphabetPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/array/AlphabetPosition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/array/StringAnalize.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/array/StringAnalize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/array/SuffixArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/array/SuffixArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/arrayList/Editor1406.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/arrayList/Editor1406.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/AllPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/AllPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/CandyGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/CandyGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/DateCal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/DateCal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/FindPrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/FindPrimeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/KaingCalendar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/KaingCalendar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/Lotto.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/Lotto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/MakePwd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/MakePwd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/MaximumDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/MaximumDifference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/MockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/MockTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/NandM1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/NandM1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/NandM2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/NandM2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/NandM2Select.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/NandM2Select.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/NandM3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/NandM3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/NandM4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/NandM4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/NandM4Select.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/NandM4Select.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/NextPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/NextPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/NumberBaseball.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/NumberBaseball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/NumericSuccession.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/NumericSuccession.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/PlusOneTwoThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/PlusOneTwoThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/PrevPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/PrevPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/RemoteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/RemoteController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/SevenDwarfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/SevenDwarfs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/TSP2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/TSP2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bruteForce/Tetromino.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bruteForce/Tetromino.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deque/Deque10866.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deque/Deque10866.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/BuyCard2BU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/BuyCard2BU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/BuyCard2TD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/BuyCard2TD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/BuyCardBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/BuyCardBU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/BuyCardTD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/BuyCardTD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/ContinuousSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/ContinuousSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/EasyStepCountBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/EasyStepCountBU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/ExpressN.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/ExpressN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/FibonacciNumber2BottomUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/FibonacciNumber2BottomUp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/FibonacciNumber2Topdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/FibonacciNumber2Topdown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/IntegerTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/IntegerTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/LISBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/LISBU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/LISBU4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/LISBU4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/PinaryNumberBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/PinaryNumberBU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/PinaryNumberBU2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/PinaryNumberBU2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/PinaryNumberTD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/PinaryNumberTD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/PlusOneTwoThree5BU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/PlusOneTwoThree5BU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/PlusOneTwoThree5TD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/PlusOneTwoThree5TD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/PlusOneTwoThreeBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/PlusOneTwoThreeBU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/PlusOneTwoThreeTD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/PlusOneTwoThreeTD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/SchoolRoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/SchoolRoad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/SumBreakdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/SumBreakdown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/SumOfSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/SumOfSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/TileDecoration.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/TileDecoration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/Tilling2XN2BU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/Tilling2XN2BU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/Tilling2XNBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/Tilling2XNBU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/Tilling2xN2TD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/Tilling2xN2TD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/Tilling2xNTD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/Tilling2xNTD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/ToOneBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/ToOneBU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/ToOneTD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/ToOneTD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/PlusOneTwoThree3BU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/PlusOneTwoThree3BU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/BISA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/BISA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/ClimbsNumberA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/ClimbsNumberA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/ContinuousSum2A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/ContinuousSum2A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/IntegerTriangleA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/IntegerTriangleA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/LBSA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/LBSA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/LDSA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/LDSA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/PlusOneTwoThree3BUA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/PlusOneTwoThree3BUA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/RGBRoad2A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/RGBRoad2A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/RGBRoadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/RGBRoadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/StickerA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/StickerA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/SumBreakdownExtendA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/SumBreakdownExtendA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/TileFillingA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/TileFillingA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/WineTasteA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/WineTasteA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/ZooA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/ZooA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/dp/exam/answer/ZooExtendA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dp/exam/answer/ZooExtendA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/function/Selfnumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/function/Selfnumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/function/SumOfNInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/function/SumOfNInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/graph/ABCDE.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/graph/ABCDE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/graph/BipartiteGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/graph/BipartiteGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/graph/ComplexNumbering.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/graph/ComplexNumbering.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/graph/DFSnBFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/graph/DFSnBFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/graph/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/graph/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/graph/ElementsConnectedCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/graph/ElementsConnectedCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hash/PhoneList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hash/PhoneList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hash/UnfulfilledPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hash/UnfulfilledPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakao2019/Exam01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakao2019/Exam01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakao2019/Exam02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakao2019/Exam02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakao2019/Exam03.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakao2019/Exam03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakao2019/Exam04.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakao2019/Exam04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakao2019/Exam05.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakao2019/Exam05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakao2019/Exam06.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakao2019/Exam06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakao2019/Exam07.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakao2019/Exam07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakao2019/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakao2019/Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakao2019/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakao2019/Test02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakaoIntern/Exam01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakaoIntern/Exam01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakaoIntern/Exam02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakaoIntern/Exam02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakaoIntern/Exam03.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakaoIntern/Exam03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakaoIntern/Exam04.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakaoIntern/Exam04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakaoIntern/Exam05.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakaoIntern/Exam05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/kakaoIntern/Exam06.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/kakaoIntern/Exam06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/FactorialZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/FactorialZero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/FinePrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/FinePrime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/GcdLcm.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/GcdLcm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/GcdSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/GcdSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/GoldbachsConjecture.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/GoldbachsConjecture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/GoldbachsPartition.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/GoldbachsPartition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/HideAndSeek6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/HideAndSeek6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/NcmZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/NcmZero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/PrimeFactorization.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/PrimeFactorization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/math/SieveOfEratosthenes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/math/SieveOfEratosthenes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ntech/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ntech/Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/programmers/Budget.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/programmers/Budget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/programmers/EnglishEnding.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/programmers/EnglishEnding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/programmers/JumpAndTeleport.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/programmers/JumpAndTeleport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/programmers/MakePrimNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/programmers/MakePrimNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/programmers/NextBigNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/programmers/NextBigNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/programmers/NumberOf124Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/programmers/NumberOf124Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/programmers/SkillTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/programmers/SkillTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/BridgeTruck.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/queue/BridgeTruck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/Josephus1158.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/queue/Josephus1158.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/queue/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/queue/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/Editor1406.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/Editor1406.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/FunctionalDevelopment.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/FunctionalDevelopment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/IronBar10799.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/IronBar10799.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/Nge.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/Nge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/NgeBeak.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/NgeBeak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/Ngf.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/Ngf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/PostfixExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/PostfixExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/ReverseWord2_17413.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/ReverseWord2_17413.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/ReverseWord9093.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/ReverseWord9093.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/StackSequence1874.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/StackSequence1874.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/StockPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/StockPrice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/Tower.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/Tower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/stack/Vps9012.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stack/Vps9012.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/AsciiCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/AsciiCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/FourNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/FourNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/Rot13.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/Rot13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/Sangsu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/Sangsu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/WordLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/WordLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/AddDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/AddDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/AlphabetToNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/AlphabetToNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/BigSameSmall.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/BigSameSmall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/DiagonalPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/DiagonalPrint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/DoubleDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/DoubleDouble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/GetAverrage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/GetAverrage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/GetBiggestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/GetBiggestNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/GetMiddleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/GetMiddleNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/NLinePlus.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/NLinePlus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/NewspaperHeadline.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/NewspaperHeadline.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/PasswordOfDrawer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/PasswordOfDrawer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/PlusOddNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/PlusOddNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/ReversePrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/ReversePrint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/RockPaperScissors.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/RockPaperScissors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/ShareAndRest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/ShareAndRest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/SimpleCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/SimpleCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/SimpleDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/SimpleDivisor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/Stamping.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/Stamping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level1/YearMonthDateCalendar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level1/YearMonthDateCalendar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level2/NewCureForInsomnia.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level2/NewCureForInsomnia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level2/PalindromeExamination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level2/PalindromeExamination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level2/SimplePrimeFactorization.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level2/SimplePrimeFactorization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level2/WaterRateCompetition.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level2/WaterRateCompetition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/swea_level2/ZigzagNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swea_level2/ZigzagNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/template/BOJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/template/BOJ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/template/Programmers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/template/SWEA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/template/SWEA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/webjobfair/Exam01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/webjobfair/Exam01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/webjobfair/Exam02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/webjobfair/Exam02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/webjobfair/Exam03.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/webjobfair/Exam03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/Programmers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/Programmers.java" afterDir="false" />
-    </list>
+    <list default="true" id="e29759f4-63b5-4216-a7cc-41831ff3c6ad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -227,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604577113455</updated>
       <workItem from="1604577121755" duration="287000" />
+      <workItem from="1608265769350" duration="8000" />
     </task>
     <servers />
   </component>
@@ -254,5 +82,9 @@
       <screen x="1920" y="-7" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/1920.-7.1920.1040/0.0.1920.1040@1920.-7.1920.1040" timestamp="1604577408823" />
+    <state x="2572" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1608265770754">
+      <screen x="1920" y="-7" width="1920" height="1040" />
+    </state>
+    <state x="2572" y="337" key="com.intellij.ide.util.TipDialog/1920.-7.1920.1040/0.0.1920.1040@1920.-7.1920.1040" timestamp="1608265770754" />
   </component>
 </project>

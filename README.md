@@ -11,8 +11,6 @@
 - 10098번. AxB - [문제](https://www.acmicpc.net/problem/10998) / [풀이](./baekjoon/AxB-10998.cpp)
 - 1008번. A/B - [문제](https://www.acmicpc.net/problem/1008) / [풀이](./baekjoon/A÷B-1008.cpp)
 
-## algospot
-
 ## programmers
 
 - 짝수와 홀수 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) / [풀이](./programmers/even-number-and-odd-number.cpp)
@@ -20,5 +18,3 @@
 ## swexpertacademy
 
 - 1938번. 아주 간단한 계산기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjsYKAMIDFAUq&categoryId=AV5PjsYKAMIDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/very-simple-calculator-1938.cpp)
-
-## codeforces
