@@ -11,6 +11,8 @@
 - 10098번. AxB - [문제](https://www.acmicpc.net/problem/10998) / [풀이](./baekjoon/AxB-10998.cpp)
 - 1008번. A/B - [문제](https://www.acmicpc.net/problem/1008) / [풀이](./baekjoon/A÷B-1008.cpp)
 - 10869번. 사칙연산 - [문제](https://www.acmicpc.net/problem/10869) / [풀이](./baekjoon/four-fundamental-arithmetic-operations-10869.cpp)
+- 10430번. 나머지 / [문제](https://www.acmicpc.net/problem/10430)
+- 2588번. 곱셈 / [문제](https://www.acmicpc.net/problem/2588)
 
 ## programmers
 
