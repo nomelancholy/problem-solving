@@ -3,6 +3,6 @@
 
 using namespace std;
 
-void hello_world_2557(){
+void hello_world_2557() {
     cout << "Hello World!";
 }

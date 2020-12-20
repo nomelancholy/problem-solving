@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void four_fundamental_arithmetic_operations_10869(){
+void four_fundamental_arithmetic_operations_10869() {
     int n,m;
     cin >> n >> m;
 

@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void a_mutiply_b_10998(){
+void a_mutiply_b_10998() {
     int a;
     int b;
     cin >> a;

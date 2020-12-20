@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void a_plus_b_1000(){
+void a_plus_b_1000() {
     int a;
     int b;
     cin >> a;

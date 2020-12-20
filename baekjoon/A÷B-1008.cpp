@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void a_division_b_1008(){
+void a_division_b_1008() {
     int a;
     int b;
     cin >> a;
