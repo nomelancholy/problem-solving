@@ -4,6 +4,6 @@
 using namespace std;
 
 int main(){
-    four_fundamental_arithmetic_operations_10869();
+    rest_10430();
     return 0;
 }
