@@ -1,15 +1,15 @@
 # depslib dependency file v1.0
-1608471795 source:c:\dev\workspace\problem-solving\baekjoon\main.cpp
+1608472362 source:c:\dev\workspace\problem-solving\baekjoon\main.cpp
 	<iostream>
 	"solutions.h"
 
-1608471782 c:\dev\workspace\problem-solving\baekjoon\solutions.h
+1608472364 c:\dev\workspace\problem-solving\baekjoon\solutions.h
 
-1607344811 source:c:\dev\workspace\problem-solving\baekjoon\hello-world-2557.cpp
+1608472379 source:c:\dev\workspace\problem-solving\baekjoon\hello-world-2557.cpp
 	<iostream>
 	"solutions.h"
 
-1607437985 source:c:\dev\workspace\problem-solving\baekjoon\we-love-kriii-10718.cpp
+1608472370 source:c:\dev\workspace\problem-solving\baekjoon\we-love-kriii-10718.cpp
 	<iostream>
 	"solutions.h"
 
@@ -17,27 +17,31 @@
 	<iostream>
 	"solutions.h"
 
-1607598719 source:c:\dev\workspace\problem-solving\baekjoon\dog-10172.cpp
+1608472384 source:c:\dev\workspace\problem-solving\baekjoon\dog-10172.cpp
 	<iostream>
 	"solutions.h"
 
-1607814031 source:c:\dev\workspace\problem-solving\baekjoon\a+b-1000.cpp
+1608472397 source:c:\dev\workspace\problem-solving\baekjoon\a+b-1000.cpp
 	<iostream>
 	"solutions.h"
 
-1607814616 source:c:\dev\workspace\problem-solving\baekjoon\a-b-1001.cpp
+1608472395 source:c:\dev\workspace\problem-solving\baekjoon\a-b-1001.cpp
 	<iostream>
 	"solutions.h"
 
-1607815802 source:c:\dev\workspace\problem-solving\baekjoon\axb-10998.cpp
+1608472392 source:c:\dev\workspace\problem-solving\baekjoon\axb-10998.cpp
 	<iostream>
 	"solutions.h"
 
-1607974174 source:c:\dev\workspace\problem-solving\baekjoon\a¡Àb-1008.cpp
+1608472390 source:c:\dev\workspace\problem-solving\baekjoon\a¡Àb-1008.cpp
 	<iostream>
 	"solutions.h"
 
-1608288767 source:c:\dev\workspace\problem-solving\baekjoon\four-fundamental-arithmetic-operations-10869.cpp
+1608472382 source:c:\dev\workspace\problem-solving\baekjoon\four-fundamental-arithmetic-operations-10869.cpp
+	<iostream>
+	"solutions.h"
+
+1608471932 source:c:\dev\workspace\problem-solving\baekjoon\rest-10430.cpp
 	<iostream>
 	"solutions.h"
 

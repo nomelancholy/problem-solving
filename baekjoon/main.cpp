@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(){
-    rest_10430();
+int main() {
+    multiply_2588();
     return 0;
 }

@@ -11,5 +11,6 @@ void a_mutiply_b_10998();
 void a_division_b_1008();
 void four_fundamental_arithmetic_operations_10869();
 void rest_10430();
+void multiply_2588();
 
 #endif // SOLUTIONS_H_INCLUDED
