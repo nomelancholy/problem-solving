@@ -35,6 +35,7 @@
 		<Unit filename="even-number-and-odd-number.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="solutions.h" />
+		<Unit filename="sum-between-two-integers.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

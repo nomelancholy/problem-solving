@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    even_number_and_odd_number();
+    sum_between_two_integers();
     return 0;
 }
