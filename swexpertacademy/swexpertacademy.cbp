@@ -33,6 +33,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="odd-numbers-plus-2072.cpp" />
 		<Unit filename="solutions.h" />
 		<Unit filename="very-simple-calculator-1938.cpp" />
 		<Extensions>

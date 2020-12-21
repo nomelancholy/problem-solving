@@ -22,3 +22,4 @@
 ## swexpertacademy
 
 - 1938번. 아주 간단한 계산기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjsYKAMIDFAUq&categoryId=AV5PjsYKAMIDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/very-simple-calculator-1938.cpp)
+- 2072번. 홀수만 더하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QSEhaA5sDFAUq&categoryId=AV5QSEhaA5sDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/odd-numbers-plus-2072.cpp)

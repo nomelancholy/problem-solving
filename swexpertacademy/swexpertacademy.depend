@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1608106053 source:c:\dev\workspace\problem-solving\swexpertacademy\very-simple-calculator-1938.cpp
+1608106460 source:c:\dev\workspace\problem-solving\swexpertacademy\very-simple-calculator-1938.cpp
 	<iostream>
 	"solutions.h"
 
-1608106009 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
+1608568330 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
 
-1608106068 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
+1608568349 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
 	<iostream>
 	"solutions.h"
 

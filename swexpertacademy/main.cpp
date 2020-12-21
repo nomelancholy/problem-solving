@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(){
-    very_simple_calculator_1938();
+int main() {
+    odd_numbers_plus_2072();
     return 0;
 }
