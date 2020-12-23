@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    odd_numbers_plus_2072();
+    get_average_value_2071();
     return 0;
 }

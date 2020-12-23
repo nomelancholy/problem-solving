@@ -3,9 +3,13 @@
 	<iostream>
 	"solutions.h"
 
-1608568330 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
+1608735485 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
 
-1608568349 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
+1608735489 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
+	<iostream>
+	"solutions.h"
+
+1608568766 source:c:\dev\workspace\problem-solving\swexpertacademy\odd-numbers-plus-2072.cpp
 	<iostream>
 	"solutions.h"
 
