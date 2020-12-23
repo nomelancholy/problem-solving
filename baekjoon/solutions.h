@@ -12,5 +12,6 @@ void a_division_b_1008();
 void four_fundamental_arithmetic_operations_10869();
 void rest_10430();
 void multiply_2588();
+void compare_two_numbers_1330();
 
 #endif // SOLUTIONS_H_INCLUDED

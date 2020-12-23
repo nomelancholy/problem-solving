@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    multiply_2588();
+    compare_two_numbers_1330();
     return 0;
 }

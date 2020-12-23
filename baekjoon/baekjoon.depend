@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1608472362 source:c:\dev\workspace\problem-solving\baekjoon\main.cpp
+1608734603 source:c:\dev\workspace\problem-solving\baekjoon\main.cpp
 	<iostream>
 	"solutions.h"
 
-1608472364 c:\dev\workspace\problem-solving\baekjoon\solutions.h
+1608734599 c:\dev\workspace\problem-solving\baekjoon\solutions.h
 
 1608472379 source:c:\dev\workspace\problem-solving\baekjoon\hello-world-2557.cpp
 	<iostream>
@@ -42,6 +42,14 @@
 	"solutions.h"
 
 1608471932 source:c:\dev\workspace\problem-solving\baekjoon\rest-10430.cpp
+	<iostream>
+	"solutions.h"
+
+1608472529 source:c:\dev\workspace\problem-solving\baekjoon\multiply-2588.cpp
+	<iostream>
+	"solutions.h"
+
+1608734691 source:c:\dev\workspace\problem-solving\baekjoon\compare-two-numbers-1330.cpp
 	<iostream>
 	"solutions.h"
 
