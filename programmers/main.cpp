@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    sum_between_two_integers();
+    sum_of_divisior();
     return 0;
 }

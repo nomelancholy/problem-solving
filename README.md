@@ -19,6 +19,7 @@
 
 - 짝수와 홀수 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) / [풀이](./programmers/even-number-and-odd-number.cpp)
 - 두 정수 사이의 합 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12912) / [풀이](./programmers/sum_between_two_integers.cpp)
+- 약수의 합 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12928) / [풀이](./programmers/sum_between_two_integers.cpp)
 
 ## swexpertacademy
 
