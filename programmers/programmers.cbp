@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="count-of-p-and-y.cpp" />
 		<Unit filename="even-number-and-odd-number.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="solutions.h" />

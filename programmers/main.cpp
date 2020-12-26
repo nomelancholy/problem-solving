@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    sum_of_divisior();
+    count_of_p_and_y();
     return 0;
 }

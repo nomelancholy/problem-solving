@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1608802723 source:c:\dev\workspace\problem-solving\programmers\main.cpp
+1608980040 source:c:\dev\workspace\problem-solving\programmers\main.cpp
 	<iostream>
 	"solutions.h"
 
-1608802554 c:\dev\workspace\problem-solving\programmers\solutions.h
+1608980035 c:\dev\workspace\problem-solving\programmers\solutions.h
 
 1608515856 source:c:\dev\workspace\problem-solving\programmers\even-number-and-odd-number.cpp
 	<iostream>
@@ -15,5 +15,11 @@
 
 1608802751 source:c:\dev\workspace\problem-solving\programmers\sum-of-divisor.cpp
 	<iostream>
+	"solutions.h"
+
+1608985027 source:c:\dev\workspace\problem-solving\programmers\count-of-p-and-y.cpp
+	<iostream>
+	<string>
+	<algorithm>
 	"solutions.h"
 
