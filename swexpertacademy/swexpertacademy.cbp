@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="big-small-same-2070.cpp" />
 		<Unit filename="get-average-value-2071.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="odd-numbers-plus-2072.cpp" />

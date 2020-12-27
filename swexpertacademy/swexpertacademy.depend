@@ -3,13 +3,22 @@
 	<iostream>
 	"solutions.h"
 
-1608735485 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
+1609056141 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
 
-1608735489 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
+1609056173 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
 	<iostream>
 	"solutions.h"
 
 1608568766 source:c:\dev\workspace\problem-solving\swexpertacademy\odd-numbers-plus-2072.cpp
+	<iostream>
+	"solutions.h"
+
+1608735833 source:c:\dev\workspace\problem-solving\swexpertacademy\get-average-value-2071.cpp
+	<iostream>
+	<cmath>
+	"solutions.h"
+
+1609057462 source:c:\dev\workspace\problem-solving\swexpertacademy\big-small-same-2070.cpp
 	<iostream>
 	"solutions.h"
 

@@ -4,5 +4,6 @@
 void very_simple_calculator_1938();
 void odd_numbers_plus_2072();
 void get_average_value_2071();
+void big_small_same_2070();
 
 #endif // SOLUTIONS_H_INCLUDED
