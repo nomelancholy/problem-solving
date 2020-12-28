@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    big_small_same_2070();
+    get_biggest_number_2068();
     return 0;
 }
