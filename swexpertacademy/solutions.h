@@ -7,5 +7,6 @@ void get_average_value_2071();
 void big_small_same_2070();
 void get_biggest_number_2068();
 void sum_digits_2058();
+void newspaper_headline_2047();
 
 #endif // SOLUTIONS_H_INCLUDED

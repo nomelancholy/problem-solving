@@ -3,9 +3,9 @@
 	<iostream>
 	"solutions.h"
 
-1609219288 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
+1609249357 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
 
-1609219293 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
+1609249363 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
 	<iostream>
 	"solutions.h"
 
@@ -23,6 +23,16 @@
 	"solutions.h"
 
 1609141838 source:c:\dev\workspace\problem-solving\swexpertacademy\get-biggest-number-2068.cpp
+	<iostream>
+	"solutions.h"
+
+1609249345 source:c:\dev\workspace\problem-solving\swexpertacademy\newspaper-headline-2047.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	"solutions.h"
+
+1609219952 source:c:\dev\workspace\problem-solving\swexpertacademy\sum-digits-2058.cpp
 	<iostream>
 	"solutions.h"
 
