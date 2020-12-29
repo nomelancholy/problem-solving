@@ -38,6 +38,7 @@
 		<Unit filename="main.cpp" />
 		<Unit filename="odd-numbers-plus-2072.cpp" />
 		<Unit filename="solutions.h" />
+		<Unit filename="sum-digits-2058.cpp" />
 		<Unit filename="very-simple-calculator-1938.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

@@ -29,3 +29,4 @@
 - 2071번. 평균값 구하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/get-average-value-2071.cpp)
 - 2070번. 큰 놈, 작은 놈, 같은 놈 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQ6qqA40DFAUq&categoryId=AV5QQ6qqA40DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/big-small-same-2070.cpp)
 - 2068번. 최대수 구하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQhbqA4QDFAUq&categoryId=AV5QQhbqA4QDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/get-biggest-number-2068.cpp)
+- 2058번. 자릿수 더하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPRjqA10DFAUq&categoryId=AV5QPRjqA10DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/sum-digits-2058.cpp)

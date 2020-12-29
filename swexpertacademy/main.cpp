@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    get_biggest_number_2068();
+    sum_digits_2058();
     return 0;
 }
