@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    newspaper_headline_2047();
+    stamp_2046();
     return 0;
 }

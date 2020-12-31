@@ -8,5 +8,6 @@ void big_small_same_2070();
 void get_biggest_number_2068();
 void sum_digits_2058();
 void newspaper_headline_2047();
+void stamp_2046();
 
 #endif // SOLUTIONS_H_INCLUDED
