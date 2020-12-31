@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    stamp_2046();
+    password_of_drawer_2043();
     return 0;
 }
