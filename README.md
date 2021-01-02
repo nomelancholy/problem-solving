@@ -19,7 +19,7 @@
 
 - 짝수와 홀수 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) / [풀이](./programmers/even-number-and-odd-number.cpp)
 - 두 정수 사이의 합 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12912) / [풀이](./programmers/sum-between-two-integers.cpp)
-- 약수의 합 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12928) / [풀이](./programmers/sum-between-two-integers.cpp)
+- 약수의 합 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12928) / [풀이](./programmers/sum-of-divisor.cpp)
 - 문자열 내 p와 y의 개수 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) / [풀이](./programmers/count-of-p-and-y.cpp)
 
 ## swexpertacademy
@@ -33,3 +33,4 @@
 - 2047번. 신문 헤드라인 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QKsLaAy0DFAUq&categoryId=AV5QKsLaAy0DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/newspaper-headline-2047.cpp)
 - 2046번. 스탬프 찍기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QKdT6AyYDFAUq&categoryId=AV5QKdT6AyYDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/stamp-2046.cpp)
 - 2043번. 서랍의 비밀번호 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/password-of-drawer-2043.cpp)
+- 1933번. 간단한 N의 약수 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/password-of-drawer-2043.cpp)
