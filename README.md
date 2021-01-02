@@ -33,4 +33,4 @@
 - 2047번. 신문 헤드라인 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QKsLaAy0DFAUq&categoryId=AV5QKsLaAy0DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/newspaper-headline-2047.cpp)
 - 2046번. 스탬프 찍기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QKdT6AyYDFAUq&categoryId=AV5QKdT6AyYDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/stamp-2046.cpp)
 - 2043번. 서랍의 비밀번호 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/password-of-drawer-2043.cpp)
-- 1933번. 간단한 N의 약수 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/password-of-drawer-2043.cpp)
+- 1933번. 간단한 N의 약수 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/simple-divisor-of-n-1933.cpp)

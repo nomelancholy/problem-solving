@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    password_of_drawer_2043();
+    simple_divisor_of_n_1933();
     return 0;
 }
