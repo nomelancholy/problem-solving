@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    simple_divisor_of_n_1933();
+    print_quotient_and_remainder_2029();
     return 0;
 }

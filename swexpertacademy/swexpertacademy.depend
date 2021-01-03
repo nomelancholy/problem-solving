@@ -3,9 +3,9 @@
 	<iostream>
 	"solutions.h"
 
-1609550048 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
+1609596728 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
 
-1609419449 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
+1609596739 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
 	<iostream>
 	"solutions.h"
 
@@ -40,7 +40,11 @@
 	<iostream>
 	"solutions.h"
 
-1609419589 source:c:\dev\workspace\problem-solving\swexpertacademy\password-of-drawer-2043.cpp
+1609419739 source:c:\dev\workspace\problem-solving\swexpertacademy\password-of-drawer-2043.cpp
+	<iostream>
+	"solutions.h"
+
+1609550111 source:c:\dev\workspace\problem-solving\swexpertacademy\simple-divisor-of-n-1933.cpp
 	<iostream>
 	"solutions.h"
 

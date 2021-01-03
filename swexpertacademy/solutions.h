@@ -11,6 +11,7 @@ void newspaper_headline_2047();
 void stamp_2046();
 void password_of_drawer_2043();
 void simple_divisor_of_n_1933();
+void print_quotient_and_remainder_2029();
 
 
 #endif // SOLUTIONS_H_INCLUDED
