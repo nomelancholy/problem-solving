@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    print_quotient_and_remainder_2029();
+    print_dialog_line_2027();
     return 0;
 }

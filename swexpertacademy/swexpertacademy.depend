@@ -3,7 +3,7 @@
 	<iostream>
 	"solutions.h"
 
-1609596728 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
+1609731120 c:\dev\workspace\problem-solving\swexpertacademy\solutions.h
 
 1609596739 source:c:\dev\workspace\problem-solving\swexpertacademy\main.cpp
 	<iostream>
@@ -45,6 +45,10 @@
 	"solutions.h"
 
 1609550111 source:c:\dev\workspace\problem-solving\swexpertacademy\simple-divisor-of-n-1933.cpp
+	<iostream>
+	"solutions.h"
+
+1609731257 source:c:\dev\workspace\problem-solving\swexpertacademy\print-dialog-line-2027.cpp
 	<iostream>
 	"solutions.h"
 
