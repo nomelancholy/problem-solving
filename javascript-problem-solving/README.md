@@ -2,4 +2,4 @@
 
 ## 프로그래머스
 
-- 직사각형 별찍기
+- 두 정수 사이의 합 [문제](https://programmers.co.kr/learn/courses/30/lessons/12912?language=javascript) / [풀이](./programmers/sum-between-two-integers.js)
