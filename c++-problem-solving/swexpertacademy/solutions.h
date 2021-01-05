@@ -13,5 +13,6 @@ void password_of_drawer_2043();
 void simple_divisor_of_n_1933();
 void print_quotient_and_remainder_2029();
 void print_dialog_line_2027();
+void n_line_add_2025();
 
 #endif // SOLUTIONS_H_INCLUDED

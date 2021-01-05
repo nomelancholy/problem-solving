@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    print_dialog_line_2027();
+    n_line_add_2025();
     return 0;
 }
