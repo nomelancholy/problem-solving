@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    n_line_add_2025();
+    rock_paper_scissors_1936();
     return 0;
 }

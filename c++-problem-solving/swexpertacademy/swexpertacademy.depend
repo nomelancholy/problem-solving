@@ -56,7 +56,7 @@
 	<iostream>
 	"solutions.h"
 
-1609849776 c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\solutions.h
+1609913529 c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\solutions.h
 
 1608735833 source:c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\get-average-value-2071.cpp
 	<iostream>
@@ -105,7 +105,11 @@
 	<iostream>
 	"solutions.h"
 
-1609849781 source:c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\main.cpp
+1609913534 source:c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\main.cpp
+	<iostream>
+	"solutions.h"
+
+1609849846 source:c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\n-line-add-2025.cpp
 	<iostream>
 	"solutions.h"
 
