@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    rock_paper_scissors_1936();
+    double_double_2019();
     return 0;
 }

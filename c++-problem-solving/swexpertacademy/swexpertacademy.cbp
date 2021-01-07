@@ -33,6 +33,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="big-small-same-2070.cpp" />
+		<Unit filename="double-double-2019.cpp" />
 		<Unit filename="get-average-value-2071.cpp" />
 		<Unit filename="get-biggest-number-2068.cpp" />
 		<Unit filename="main.cpp" />
