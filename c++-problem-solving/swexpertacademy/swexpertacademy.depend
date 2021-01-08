@@ -56,7 +56,7 @@
 	<iostream>
 	"solutions.h"
 
-1609994579 c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\solutions.h
+1610099414 c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\solutions.h
 
 1608735833 source:c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\get-average-value-2071.cpp
 	<iostream>
@@ -105,11 +105,19 @@
 	<iostream>
 	"solutions.h"
 
-1609913534 source:c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\main.cpp
+1610099422 source:c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\main.cpp
 	<iostream>
 	"solutions.h"
 
 1609849846 source:c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\n-line-add-2025.cpp
+	<iostream>
+	"solutions.h"
+
+1609994817 source:c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\double-double-2019.cpp
+	<iostream>
+	"solutions.h"
+
+1609914463 source:c:\dev\workspace\problem-solving\c++-problem-solving\swexpertacademy\rock-paper-scissors-1936.cpp
 	<iostream>
 	"solutions.h"
 
