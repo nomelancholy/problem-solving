@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    compare_two_numbers_1330();
+    exam_grades_9498();
     return 0;
 }
