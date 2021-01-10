@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    print_upside_down_1545();
+    zig_zag_number_1986();
     return 0;
 }

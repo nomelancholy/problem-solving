@@ -17,5 +17,6 @@ void n_line_add_2025();
 void rock_paper_scissors_1936();
 void double_double_2019();
 void print_upside_down_1545();
+void zig_zag_number_1986();
 
 #endif // SOLUTIONS_H_INCLUDED
