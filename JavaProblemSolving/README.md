@@ -7,7 +7,7 @@
 - 10171번. 고양이 - [문제](https://www.acmicpc.net/problem/10171) / [풀이](./src/baekjoon/Cat10171.java)
 - 10172번. 개 - [문제](https://www.acmicpc.net/problem/10172) / [풀이](./src/baekjoon/Dog10172.java)
 - 1000번. A+B - [문제](https://www.acmicpc.net/problem/1000) / [풀이](./src/baekjoon/AplusB1000.java)
-- 1001번. A-B - [문제](https://www.acmicpc.net/problem/1001) / [풀이](./baekjoon/A-B-1001.cpp)
+- 1001번. A-B - [문제](https://www.acmicpc.net/problem/1001) / [풀이](./src/baekjoon/AminusB1001.java)
 - 10098번. AxB - [문제](https://www.acmicpc.net/problem/10998) / [풀이](./baekjoon/AxB-10998.cpp)
 - 1008번. A/B - [문제](https://www.acmicpc.net/problem/1008) / [풀이](./baekjoon/A÷B-1008.cpp)
 - 10869번. 사칙연산 - [문제](https://www.acmicpc.net/problem/10869) / [풀이](./baekjoon/four-fundamental-arithmetic-operations-10869.cpp)
