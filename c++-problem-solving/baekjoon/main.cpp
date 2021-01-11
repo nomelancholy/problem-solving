@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    exam_grades_9498();
+    leap_year_2753();
     return 0;
 }

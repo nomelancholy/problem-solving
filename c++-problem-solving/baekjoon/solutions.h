@@ -14,5 +14,6 @@ void rest_10430();
 void multiply_2588();
 void compare_two_numbers_1330();
 void exam_grades_9498();
+void leap_year_2753();
 
 #endif // SOLUTIONS_H_INCLUDED
