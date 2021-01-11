@@ -5,7 +5,7 @@
 - 2557번. Hello World - [문제](https://www.acmicpc.net/problem/2557) / [풀이](./src/baekjoon/HelloWorld2557.java)
 - 10718번. We Love Kriii - [문제](https://www.acmicpc.net/problem/10718) / [풀이](./src/baekjoon/WeLoveKriii10718.java)
 - 10171번. 고양이 - [문제](https://www.acmicpc.net/problem/10171) / [풀이](./src/baekjoon/Cat10171.java)
-- 10172번. 개 - [문제](https://www.acmicpc.net/problem/10172) / [풀이](./baekjoon/dog-10172.cpp)
+- 10172번. 개 - [문제](https://www.acmicpc.net/problem/10172) / [풀이](./src/baekjoon/Dog10172.java)
 - 1000번. A+B - [문제](https://www.acmicpc.net/problem/1000) / [풀이](./baekjoon/A+B-1000.cpp)
 - 1001번. A-B - [문제](https://www.acmicpc.net/problem/1001) / [풀이](./baekjoon/A-B-1001.cpp)
 - 10098번. AxB - [문제](https://www.acmicpc.net/problem/10998) / [풀이](./baekjoon/AxB-10998.cpp)
