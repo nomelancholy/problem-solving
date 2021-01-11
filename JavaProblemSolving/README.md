@@ -12,7 +12,7 @@
 - 1008번. A/B - [문제](https://www.acmicpc.net/problem/1008) / [풀이](./src/baekjoon/AdiviedByB1008.java)
 - 10869번. 사칙연산 - [문제](https://www.acmicpc.net/problem/10869) / [풀이](./src/baekjoon/FourFundamentalArithmeticOperations10869.java)
 - 10430번. 나머지 / [문제](https://www.acmicpc.net/problem/10430) / [풀이](./src/baekjoon/Rest10430.java)
-- 2588번. 곱셈 / [문제](https://www.acmicpc.net/problem/2588) / [풀이](./baekjoon/multiply-2588.cpp)
+- 2588번. 곱셈 / [문제](https://www.acmicpc.net/problem/2588) / [풀이](./src/baekjoon/Multiply2588.java)
 - 1330번. 두 수 비교하기 / [문제](https://www.acmicpc.net/problem/1330) / [풀이](./baekjoon/compare-two-numbers-1330.cpp)
 
 ## programmers
