@@ -50,6 +50,7 @@
 		<Unit filename="stamp-2046.cpp" />
 		<Unit filename="sum-digits-2058.cpp" />
 		<Unit filename="very-simple-calculator-1938.cpp" />
+		<Unit filename="water-price-competition-1284.cpp" />
 		<Unit filename="zig-zag-number-1986.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

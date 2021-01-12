@@ -125,7 +125,7 @@
 	<iostream>
 	"solutions.h"
 
-1610239066 d:\workspace\problem-solving\c++-problem-solving\swexpertacademy\solutions.h
+1610459949 d:\workspace\problem-solving\c++-problem-solving\swexpertacademy\solutions.h
 
 1610109915 source:d:\workspace\problem-solving\c++-problem-solving\swexpertacademy\double-double-2019.cpp
 	<iostream>
@@ -190,7 +190,11 @@
 	<iostream>
 	"solutions.h"
 
-1610239047 source:d:\workspace\problem-solving\c++-problem-solving\swexpertacademy\main.cpp
+1610459966 source:d:\workspace\problem-solving\c++-problem-solving\swexpertacademy\main.cpp
+	<iostream>
+	"solutions.h"
+
+1610239352 source:d:\workspace\problem-solving\c++-problem-solving\swexpertacademy\zig-zag-number-1986.cpp
 	<iostream>
 	"solutions.h"
 

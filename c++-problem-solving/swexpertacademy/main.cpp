@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    zig_zag_number_1986();
+    water_price_competition_1284();
     return 0;
 }
