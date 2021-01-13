@@ -13,8 +13,7 @@
 - 10869번. 사칙연산 - [문제](https://www.acmicpc.net/problem/10869) / [풀이](./src/baekjoon/FourFundamentalArithmeticOperations10869.java)
 - 10430번. 나머지 / [문제](https://www.acmicpc.net/problem/10430) / [풀이](./src/baekjoon/Rest10430.java)
 - 2588번. 곱셈 / [문제](https://www.acmicpc.net/problem/2588) / [풀이](./src/baekjoon/Multiply2588.java)
-- 1330번. 두 수 비교하기 / [문제](https://www.acmicpc.net/problem/1330) / [풀이](./baekjoon/compare-two-numbers-1330.cpp)
-
+- 1330번. 두 수 비교하기 / [문제](https://www.acmicpc.net/problem/1330) / [풀이](./src/baekjoon/CompareTwoNumbers1330.java)
 ## programmers
 
 - 짝수와 홀수 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) / [풀이](./programmers/even-number-and-odd-number.cpp)
