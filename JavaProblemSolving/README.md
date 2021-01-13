@@ -14,6 +14,10 @@
 - 10430번. 나머지 / [문제](https://www.acmicpc.net/problem/10430) / [풀이](./src/baekjoon/Rest10430.java)
 - 2588번. 곱셈 / [문제](https://www.acmicpc.net/problem/2588) / [풀이](./src/baekjoon/Multiply2588.java)
 - 1330번. 두 수 비교하기 / [문제](https://www.acmicpc.net/problem/1330) / [풀이](./src/baekjoon/CompareTwoNumbers1330.java)
+- 9498번. 시험 성적 - [문제](https://www.acmicpc.net/problem/9498) / [풀이](./src/baekjoon/ExamGrades9498.java)
+- 2753번. 윤년 - [문제](https://www.acmicpc.net/problem/2753) / [풀이](./baekjoon/leap-year-2753.cpp)
+- 14681번. 사분면 고르기 - [문제](https://www.acmicpc.net/problem/14681) / [풀이](./baekjoon/pick-quadrant-14681.cpp)
+
 ## programmers
 
 - 짝수와 홀수 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) / [풀이](./programmers/even-number-and-odd-number.cpp)
