@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    leap_year_2753();
+    pick_quadrant_14681();
     return 0;
 }
