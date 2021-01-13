@@ -21,7 +21,7 @@
 ## programmers
 
 - 짝수와 홀수 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) / [풀이](./src/programmers/EvenNumberAndOddNumber.java)
-- 두 정수 사이의 합 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12912) / [풀이](./programmers/sum-between-two-integers.cpp)
+- 두 정수 사이의 합 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12912) / [풀이](./src/programmers/SumBetweenTwoIntegers.java)
 - 약수의 합 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12928) / [풀이](./programmers/sum-of-divisor.cpp)
 - 문자열 내 p와 y의 개수 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) / [풀이](./programmers/count-of-p-and-y.cpp)
 
