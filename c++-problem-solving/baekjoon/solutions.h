@@ -16,5 +16,6 @@ void compare_two_numbers_1330();
 void exam_grades_9498();
 void leap_year_2753();
 void pick_quadrant_14681();
+void alarm_clock_2884();
 
 #endif // SOLUTIONS_H_INCLUDED

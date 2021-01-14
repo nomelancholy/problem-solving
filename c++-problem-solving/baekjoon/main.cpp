@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    pick_quadrant_14681();
+    alarm_clock_2884();
     return 0;
 }
