@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    multiplication_table_2739();
+    a_plus_b_3_10950();
     return 0;
 }

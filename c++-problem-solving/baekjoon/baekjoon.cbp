@@ -33,6 +33,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="A+B-1000.cpp" />
+		<Unit filename="A+B-3-10950.cpp" />
 		<Unit filename="A-B-1001.cpp" />
 		<Unit filename="AxB-10998.cpp" />
 		<Unit filename="A÷B-1008.cpp" />

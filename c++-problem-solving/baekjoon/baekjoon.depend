@@ -115,7 +115,7 @@
 	<iostream>
 	"solutions.h"
 
-1610679163 c:\dev\workspace\problem-solving\c++-problem-solving\baekjoon\solutions.h
+1610681998 c:\dev\workspace\problem-solving\c++-problem-solving\baekjoon\solutions.h
 
 1608472395 source:c:\dev\workspace\problem-solving\c++-problem-solving\baekjoon\a-b-1001.cpp
 	<iostream>
@@ -165,7 +165,7 @@
 	<iostream>
 	"solutions.h"
 
-1610615894 source:c:\dev\workspace\problem-solving\c++-problem-solving\baekjoon\main.cpp
+1610681990 source:c:\dev\workspace\problem-solving\c++-problem-solving\baekjoon\main.cpp
 	<iostream>
 	"solutions.h"
 
@@ -178,6 +178,10 @@
 	"solutions.h"
 
 1610616236 source:c:\dev\workspace\problem-solving\c++-problem-solving\baekjoon\alarm-clock-2884.cpp
+	<iostream>
+	"solutions.h"
+
+1610679258 source:c:\dev\workspace\problem-solving\c++-problem-solving\baekjoon\multiplication-table-2739.cpp
 	<iostream>
 	"solutions.h"
 
