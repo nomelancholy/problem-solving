@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    alarm_clock_2884();
+    multiplication_table_2739();
     return 0;
 }

@@ -18,6 +18,7 @@
 - 2753번. 윤년 - [문제](https://www.acmicpc.net/problem/2753) / [풀이](./baekjoon/leap-year-2753.cpp)
 - 14681번. 사분면 고르기 - [문제](https://www.acmicpc.net/problem/14681) / [풀이](./baekjoon/pick-quadrant-14681.cpp)
 - 2884번. 알람 시계 - [문제](https://www.acmicpc.net/problem/2884) / [풀이](./baekjoon/alarm-clock-2884.cpp)
+- 2739번. 구구단 - [문제](https://www.acmicpc.net/problem/2739) / [풀이](./baekjoon/multiplication-table-2739.cpp)
 
 ## programmers
 
