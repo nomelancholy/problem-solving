@@ -17,6 +17,10 @@
 - 9498번. 시험 성적 - [문제](https://www.acmicpc.net/problem/9498) / [풀이](./src/baekjoon/ExamGrades9498.java)
 - 2753번. 윤년 - [문제](https://www.acmicpc.net/problem/2753) / [풀이](./src/baekjoon/LeapYear2753.java)
 - 14681번. 사분면 고르기 - [문제](https://www.acmicpc.net/problem/14681) / [풀이](./src/baekjoon/PickQuadrant14681.java)
+- 2884번. 알람 시계 - [문제](https://www.acmicpc.net/problem/2884) / [풀이](./baekjoon/alarm-clock-2884.cpp)
+- 2739번. 구구단 - [문제](https://www.acmicpc.net/problem/2739) / [풀이](./baekjoon/multiplication-table-2739.cpp)
+- 10950번. A+B-3 - [문제](https://www.acmicpc.net/problem/10950) / [풀이](./baekjoon/A+B-3-10950.cpp)
+- 8393번. 합 - [문제](https://www.acmicpc.net/problem/8393) / [풀이](./baekjoon/sum-8393.cpp)
 
 ## programmers
 
@@ -43,3 +47,5 @@
 - 1936번. 1대 1 가위바위보 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/rock-paper-scissors-1936.cpp)
 - 2019번. 더블더블 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QDEX6AqwDFAUq&categoryId=AV5QDEX6AqwDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/double-double-2019.cpp)
 - 1545번. 거꾸로 출력해 보아요 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2gbY0qAAQBBAS0&categoryId=AV2gbY0qAAQBBAS0&categoryType=CODE)
+- 1986번. 지그재그 숫자 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq&categoryId=AV5PxmBqAe8DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/zig-zag-number-1986.cpp)
+- 1284번. 수도 요금 경쟁 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE) / [풀이](./swexpertacademy/water-price-competition-1284.cpp)
