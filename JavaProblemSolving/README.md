@@ -17,7 +17,7 @@
 - 9498번. 시험 성적 - [문제](https://www.acmicpc.net/problem/9498) / [풀이](./src/baekjoon/ExamGrades9498.java)
 - 2753번. 윤년 - [문제](https://www.acmicpc.net/problem/2753) / [풀이](./src/baekjoon/LeapYear2753.java)
 - 14681번. 사분면 고르기 - [문제](https://www.acmicpc.net/problem/14681) / [풀이](./src/baekjoon/PickQuadrant14681.java)
-- 2884번. 알람 시계 - [문제](https://www.acmicpc.net/problem/2884) / [풀이](./baekjoon/alarm-clock-2884.cpp)
+- 2884번. 알람 시계 - [문제](https://www.acmicpc.net/problem/2884) / [풀이](./src/baekjoon/AlarmClock2884.java)
 - 2739번. 구구단 - [문제](https://www.acmicpc.net/problem/2739) / [풀이](./baekjoon/multiplication-table-2739.cpp)
 - 10950번. A+B-3 - [문제](https://www.acmicpc.net/problem/10950) / [풀이](./baekjoon/A+B-3-10950.cpp)
 - 8393번. 합 - [문제](https://www.acmicpc.net/problem/8393) / [풀이](./baekjoon/sum-8393.cpp)
