@@ -51,6 +51,7 @@
 		<Unit filename="pick-quadrant-14681.cpp" />
 		<Unit filename="rest-10430.cpp" />
 		<Unit filename="solutions.h" />
+		<Unit filename="sum-8393.cpp" />
 		<Unit filename="we-love-kriii-10718.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

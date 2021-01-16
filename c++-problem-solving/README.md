@@ -20,6 +20,7 @@
 - 2884번. 알람 시계 - [문제](https://www.acmicpc.net/problem/2884) / [풀이](./baekjoon/alarm-clock-2884.cpp)
 - 2739번. 구구단 - [문제](https://www.acmicpc.net/problem/2739) / [풀이](./baekjoon/multiplication-table-2739.cpp)
 - 10950번. A+B-3 - [문제](https://www.acmicpc.net/problem/10950) / [풀이](./baekjoon/A+B-3-10950.cpp)
+- 8393번. 합 - [문제](https://www.acmicpc.net/problem/8393) / [풀이](./baekjoon/sum-8393.cpp)
 
 ## programmers
 

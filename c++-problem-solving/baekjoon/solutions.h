@@ -19,5 +19,6 @@ void pick_quadrant_14681();
 void alarm_clock_2884();
 void multiplication_table_2739();
 void a_plus_b_3_10950();
+void sum_8393();
 
 #endif // SOLUTIONS_H_INCLUDED

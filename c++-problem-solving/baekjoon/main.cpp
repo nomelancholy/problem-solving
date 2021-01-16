@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    a_plus_b_3_10950();
+    sum_8393();
     return 0;
 }
