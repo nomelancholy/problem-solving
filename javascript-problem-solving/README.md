@@ -7,4 +7,5 @@
 - 약수의 합 [문제](https://programmers.co.kr/learn/courses/30/lessons/12928?language=javascript) / [풀이](./programmers/sum-of-divisor.js)
 - 문자열 내 p와 y의 개수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12916?language=javascript) / [풀이](./programmers/count-of-p-and-y.js)
 - k번째 수 [문제](https://programmers.co.kr/learn/courses/30/lessons/42748?language=javascript) / [풀이](./programmers/k-th-number.js)
-- 가운데 글자 가져오기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12903?language=javascript) / [풀이](./programmers/k-th-number.js)
+- 가운데 글자 가져오기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12903?language=javascript) / [풀이](./programmers/get-middle-character.js)
+- 수박수박수박수박수박수? [문제](https://programmers.co.kr/learn/courses/30/lessons/12922?language=javascript) / [풀이](./programmers/water-melon-water.js)
