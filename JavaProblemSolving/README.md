@@ -35,7 +35,7 @@
 - 2072번. 홀수만 더하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QSEhaA5sDFAUq&categoryId=AV5QSEhaA5sDFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/OddNumbersPlus2072.java)
 - 2071번. 평균값 구하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/GetAverageValue2071.java)
 - 2070번. 큰 놈, 작은 놈, 같은 놈 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQ6qqA40DFAUq&categoryId=AV5QQ6qqA40DFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/BigSmallSame2070.java)
-- 2068번. 최대수 구하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQhbqA4QDFAUq&categoryId=AV5QQhbqA4QDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/get-biggest-number-2068.cpp)
+- 2068번. 최대수 구하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQhbqA4QDFAUq&categoryId=AV5QQhbqA4QDFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/GetBiggestNumber2068.java)
 - 2058번. 자릿수 더하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPRjqA10DFAUq&categoryId=AV5QPRjqA10DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/sum-digits-2058.cpp)
 - 2047번. 신문 헤드라인 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QKsLaAy0DFAUq&categoryId=AV5QKsLaAy0DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/newspaper-headline-2047.cpp)
 - 2046번. 스탬프 찍기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QKdT6AyYDFAUq&categoryId=AV5QKdT6AyYDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/stamp-2046.cpp)
