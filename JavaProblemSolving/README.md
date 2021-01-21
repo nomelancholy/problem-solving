@@ -41,7 +41,7 @@
 - 2046번. 스탬프 찍기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QKdT6AyYDFAUq&categoryId=AV5QKdT6AyYDFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/Stamp2046.java)
 - 2043번. 서랍의 비밀번호 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/PasswordOfDrawer2043.java)
 - 1933번. 간단한 N의 약수 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/SimpleDivisorOfN1933.java)
-- 2029번. 몫과 나머지 출력하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/print-quotient-and-remainder-2029.cpp)
+- 2029번. 몫과 나머지 출력하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/PrintQuotientAndRemainder2029.java)
 - 2027번. 대각선 출력하기 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QFuZ6As0DFAUq&categoryId=AV5QFuZ6As0DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/print-dialog-line-2027.cpp)
 - 2025번. N줄 덧셈 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QFZtaAscDFAUq&categoryId=AV5QFZtaAscDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/n-line-add-2025.cpp)
 - 1936번. 1대 1 가위바위보 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE) / [풀이](./swexpertacademy/rock-paper-scissors-1936.cpp)
