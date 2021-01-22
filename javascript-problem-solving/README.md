@@ -10,3 +10,4 @@
 - 가운데 글자 가져오기 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12903?language=javascript) / [풀이](./programmers/get-middle-character.js)
 - 수박수박수박수박수박수? - [문제](https://programmers.co.kr/learn/courses/30/lessons/12922?language=javascript) / [풀이](./programmers/water-melon-water.js)
 - x만큼 간격이 있는 n개의 숫자 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript) / [풀이](./programmers/n-digits-with-x-spacing.js)
+- 문자열 다루기 기본 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12918?language=javascript) / [풀이](./programmers/string-handling-basic.js)
