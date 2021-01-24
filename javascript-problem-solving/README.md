@@ -13,3 +13,4 @@
 - 문자열 다루기 기본 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12918?language=javascript) / [풀이](./programmers/string-handling-basic.js)
 - 나누어 떨어지는 숫자 배열 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12910?language=javascript) / [풀이](./programmers/divided-numbers-array.js)
 - 문자열을 정수로 바꾸기 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12925?language=javascript) / [풀이](./programmers/replace-string-with-integer.js)
+- 서울에서 김서방 찾기 - [문제](https://programmers.co.kr/learn/courses/30/lessons/12919?language=javascript) / [풀이](./programmers/find-kim-in-seoul.js)
