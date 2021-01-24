@@ -15,4 +15,8 @@ for (let element of arr) {
   }
 }
 
+if (answer.length == 0) {
+  answer.push(-1);
+}
+
 console.log(answer);
