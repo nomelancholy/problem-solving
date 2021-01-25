@@ -47,5 +47,5 @@
 - 1936번. 1대 1 가위바위보 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/RockPaperScissors1936.java)
 - 2019번. 더블더블 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QDEX6AqwDFAUq&categoryId=AV5QDEX6AqwDFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/DoubleDouble2019.java)
 - 1545번. 거꾸로 출력해 보아요 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2gbY0qAAQBBAS0&categoryId=AV2gbY0qAAQBBAS0&categoryType=CODE) / [풀이](./src/swexpertacademy/PrintUpsideDown1545.java)
-- 1986번. 지그재그 숫자 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq&categoryId=AV5PxmBqAe8DFAUq&categoryType=CODE) / [풀이](./swexpertacademy/zig-zag-number-1986.cpp)
+- 1986번. 지그재그 숫자 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq&categoryId=AV5PxmBqAe8DFAUq&categoryType=CODE) / [풀이](./src/swexpertacademy/ZigZagNumber1986.java)
 - 1284번. 수도 요금 경쟁 - [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE) / [풀이](./swexpertacademy/water-price-competition-1284.cpp)
