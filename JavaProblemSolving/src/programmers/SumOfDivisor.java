@@ -8,14 +8,14 @@ public class SumOfDivisor {
 
         int n = scanner.nextInt();
 
-        int sum = 0;
+        int answer = 0;
 
         for (int i = 1; i<= n; i++){
             if(n % i ==0){
-                sum += i;
+                answer += i;
             }
         }
 
-        System.out.println(sum);
+        System.out.println(answer);
     }
 }

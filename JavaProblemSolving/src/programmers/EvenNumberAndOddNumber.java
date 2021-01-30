@@ -6,12 +6,17 @@ public class EvenNumberAndOddNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int n = scanner.nextInt();
+        int num = scanner.nextInt();
 
-        if(n % 2 == 0){
-            System.out.println("Even");
+        String answer = "";
+
+        if(num % 2 == 0){
+            answer = "Even";
+
         }else {
-            System.out.println("Odd");
+            answer = "Odd";
         }
+
+        System.out.println(answer);
     }
 }
