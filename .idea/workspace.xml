@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e5ab91-a3f8-4bf1-8195-24fe8282a545" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/c++-problem-solving/programmers/bin/Debug/programmers.exe" beforeDir="false" afterPath="$PROJECT_DIR$/c++-problem-solving/programmers/bin/Debug/programmers.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++-problem-solving/programmers/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c++-problem-solving/programmers/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++-problem-solving/programmers/obj/Debug/count-of-p-and-y.o" beforeDir="false" afterPath="$PROJECT_DIR$/c++-problem-solving/programmers/obj/Debug/count-of-p-and-y.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++-problem-solving/programmers/obj/Debug/even-number-and-odd-number.o" beforeDir="false" afterPath="$PROJECT_DIR$/c++-problem-solving/programmers/obj/Debug/even-number-and-odd-number.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++-problem-solving/programmers/obj/Debug/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/c++-problem-solving/programmers/obj/Debug/main.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++-problem-solving/programmers/obj/Debug/sum-between-two-integers.o" beforeDir="false" afterPath="$PROJECT_DIR$/c++-problem-solving/programmers/obj/Debug/sum-between-two-integers.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++-problem-solving/programmers/obj/Debug/sum-of-divisor.o" beforeDir="false" afterPath="$PROJECT_DIR$/c++-problem-solving/programmers/obj/Debug/sum-of-divisor.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++-problem-solving/programmers/programmers.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/c++-problem-solving/programmers/programmers.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++-problem-solving/programmers/programmers.depend" beforeDir="false" afterPath="$PROJECT_DIR$/c++-problem-solving/programmers/programmers.depend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++-problem-solving/programmers/solutions.h" beforeDir="false" afterPath="$PROJECT_DIR$/c++-problem-solving/programmers/solutions.h" afterDir="false" />
-    </list>
+    <list default="true" id="a5e5ab91-a3f8-4bf1-8195-24fe8282a545" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +20,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaProblemSolving" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
