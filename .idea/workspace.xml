@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e5ab91-a3f8-4bf1-8195-24fe8282a545" name="Default Changelist" comment="" />
+    <list default="true" id="a5e5ab91-a3f8-4bf1-8195-24fe8282a545" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_divided_by_b_1008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_minus_b_1001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_plus_b_1000.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_plus_b_3_10950.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_times_b_10998.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/alarm_clock_2884.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/compare_two_numbers_1330.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/dog_10172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/exam_grades_9498.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/four_fundamental_arithmetic_operations_10869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/leap_year_2753.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/multiplication_table_2739.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/multyply_2588.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/pick_quadrant_14681.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/rest_10430.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/sum_8393.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_problem_solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/python_problem_solving/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mn0oUG3rkkXM8zok6nDZxIljU2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,5 +66,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/problem_solving$hello_world_2557.coverage" NAME="hello_world_2557 Coverage Results" MODIFIED="1615025505394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_problem_solving/baekjoon" />
+    <SUITE FILE_PATH="coverage/problem_solving$cat_10171.coverage" NAME="cat_10171 Coverage Results" MODIFIED="1615026479177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_problem_solving/baekjoon" />
   </component>
 </project>
