@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5e5ab91-a3f8-4bf1-8195-24fe8282a545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_divided_by_b_1008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_minus_b_1001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_plus_b_1000.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_plus_b_3_10950.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_times_b_10998.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/alarm_clock_2884.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/compare_two_numbers_1330.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/dog_10172.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/exam_grades_9498.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/four_fundamental_arithmetic_operations_10869.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/leap_year_2753.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/multiplication_table_2739.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/multyply_2588.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/pick_quadrant_14681.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/rest_10430.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/sum_8393.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/count_of_p_and_y.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/even_numver_and_odd_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/get_middle_character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/k_th_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/sum_between_two_integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/sum_of_divisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/very_simple_calculator_1938.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_problem_solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/python_problem_solving/README.md" afterDir="false" />
     </list>
@@ -50,6 +42,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
