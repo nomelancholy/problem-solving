@@ -2,14 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5e5ab91-a3f8-4bf1-8195-24fe8282a545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/count_of_p_and_y.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/even_numver_and_odd_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/get_middle_character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/k_th_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/sum_between_two_integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/sum_of_divisor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/very_simple_calculator_1938.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/divided_numbers_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/find_kim_in_seoul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/hide_phone_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/n_digits_with_x_spacing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/replace_string_with_integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/string_handling_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/water_melon_water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/big_small_same_2070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/double_double_2019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/get_average_value_2071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/get_biggest_number_2068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/n_line_add_2025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/newspaper_headline_2047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/odd_number_plus_2072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/password_of_drawer_2043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/print_dialog_line_2027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/print_quotient_and_remainder_2029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/print_upside_down_1545.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/rock_paper_scissors_1936.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/simple_divisor_of_n_1933.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/stamp_2046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/sum_digits_2058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/water_price_competition_1284.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/zig_zag_number_1986.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_problem_solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/python_problem_solving/README.md" afterDir="false" />
     </list>
@@ -59,6 +75,7 @@
       <updated>1610114226145</updated>
       <workItem from="1610114230013" duration="24000" />
       <workItem from="1614729449660" duration="61000" />
+      <workItem from="1615276660644" duration="2102000" />
     </task>
     <servers />
   </component>
