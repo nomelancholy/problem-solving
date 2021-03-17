@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5e5ab91-a3f8-4bf1-8195-24fe8282a545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/divided_numbers_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/find_kim_in_seoul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/hide_phone_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/n_digits_with_x_spacing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/replace_string_with_integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/string_handling_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/programmers/water_melon_water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/big_small_same_2070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/double_double_2019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/get_average_value_2071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/get_biggest_number_2068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/n_line_add_2025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/newspaper_headline_2047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/odd_number_plus_2072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/password_of_drawer_2043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/print_dialog_line_2027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/print_quotient_and_remainder_2029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/print_upside_down_1545.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/rock_paper_scissors_1936.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/simple_divisor_of_n_1933.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/stamp_2046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/sum_digits_2058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/water_price_competition_1284.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_problem_solving/swexpertacademy/zig_zag_number_1986.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_problem_solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/python_problem_solving/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_divided_by_b_1008.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_divided_by_b_1008.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +41,35 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RunManager">
+    <configuration name="a_divided_by_b_1008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="problem-solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_problem_solving/baekjoon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_problem_solving/baekjoon/a_divided_by_b_1008.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.a_divided_by_b_1008" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,6 +81,8 @@
       <workItem from="1610114230013" duration="24000" />
       <workItem from="1614729449660" duration="61000" />
       <workItem from="1615276660644" duration="2102000" />
+      <workItem from="1615639167298" duration="152000" />
+      <workItem from="1615992783715" duration="232000" />
     </task>
     <servers />
   </component>
@@ -95,6 +102,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/problem_solving$a_divided_by_b_1008.coverage" NAME="a_divided_by_b_1008 Coverage Results" MODIFIED="1615992977436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_problem_solving/baekjoon" />
     <SUITE FILE_PATH="coverage/problem_solving$hello_world_2557.coverage" NAME="hello_world_2557 Coverage Results" MODIFIED="1615025505394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_problem_solving/baekjoon" />
     <SUITE FILE_PATH="coverage/problem_solving$cat_10171.coverage" NAME="cat_10171 Coverage Results" MODIFIED="1615026479177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_problem_solving/baekjoon" />
   </component>
