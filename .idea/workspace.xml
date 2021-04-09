@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a5e5ab91-a3f8-4bf1-8195-24fe8282a545" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_divided_by_b_1008.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_divided_by_b_1008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_minus_b_1001.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_problem_solving/baekjoon/a_minus_b_1001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hello-world-projects" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,11 +64,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.a_divided_by_b_1008" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,7 +77,10 @@
       <workItem from="1614729449660" duration="61000" />
       <workItem from="1615276660644" duration="2102000" />
       <workItem from="1615639167298" duration="152000" />
-      <workItem from="1615992783715" duration="232000" />
+      <workItem from="1615992783715" duration="922000" />
+      <workItem from="1616169321799" duration="15000" />
+      <workItem from="1616639948344" duration="50000" />
+      <workItem from="1617979418668" duration="123000" />
     </task>
     <servers />
   </component>
@@ -100,10 +98,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/problem_solving$a_divided_by_b_1008.coverage" NAME="a_divided_by_b_1008 Coverage Results" MODIFIED="1615992977436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_problem_solving/baekjoon" />
-    <SUITE FILE_PATH="coverage/problem_solving$hello_world_2557.coverage" NAME="hello_world_2557 Coverage Results" MODIFIED="1615025505394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_problem_solving/baekjoon" />
-    <SUITE FILE_PATH="coverage/problem_solving$cat_10171.coverage" NAME="cat_10171 Coverage Results" MODIFIED="1615026479177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_problem_solving/baekjoon" />
   </component>
 </project>
