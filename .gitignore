@@ -10,3 +10,6 @@ JavaProblemSolving/.idea/sonarlint/issuestore/9/8/98bc4bdc12246f3ef477adf719ae56
 *.iml
 *.xml
 .idea/workspace.xml
+*.exe
+*.o
+*.o

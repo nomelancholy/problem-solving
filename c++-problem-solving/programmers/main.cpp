@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    count_of_p_and_y();
+    k_th_number();
     return 0;
 }

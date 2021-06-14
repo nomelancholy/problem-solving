@@ -34,6 +34,7 @@
 		</Compiler>
 		<Unit filename="count-of-p-and-y.cpp" />
 		<Unit filename="even-number-and-odd-number.cpp" />
+		<Unit filename="k-th-number.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="solutions.h" />
 		<Unit filename="sum-between-two-integers.cpp" />
